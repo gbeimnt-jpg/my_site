@@ -1,0 +1,16 @@
+body {
+font-family: Arial, sans-serif;
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+header {
+border-bottom: 1px solid #ccc;
+padding-bottom: 12px;
+margin-bottom: 20px;
+}
+nav a {
+margin-right: 12px;
+text-decoration: none;
+color: #333;
+}
